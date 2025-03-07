@@ -10,7 +10,7 @@ This script automates the installation and configuration of ConfigServer Securit
 
 Run the following command as root:
 ```bash
-bash <(wget -qO-https://raw.githubusercontent.com/Zhost-Cloud-Services/csf-directadmin-installer/refs/heads/main/install_csf.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/Zhost-Cloud-Services/csf-directadmin-installer/refs/heads/main/install_csf.sh)
 ```
 ## What the Script Does
 
